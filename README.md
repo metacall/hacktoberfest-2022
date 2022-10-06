@@ -18,9 +18,4 @@ Contributions to existing repositories are also accepted. Please check [the ones
 
   <a href="https://matrix.to/#/#metacall:matrix.org" alt="Matrix">
     <img src="https://img.shields.io/matrix/metacall:matrix.org?label=matrix&style=flat" /></a>
-
-  <a href="https://twitter.com/metacallio" alt="Twitter">
-    <img src="https://img.shields.io/twitter/follow/metacallio?label=MetaCall" /></a>
-
-  <a href="https://medium.com/@metacall/call-functions-methods-or-procedures-between-programming-languages-with-metacall-58cfece35d7" target="_blank"><img src="https://raw.githubusercontent.com/metacall/core/develop/deploy/images/overview.png" alt="M E T A C A L L" style="max-width:100%; margin: 0 auto;" width="350" height="auto"></a>
 </div>
