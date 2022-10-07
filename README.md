@@ -10,7 +10,7 @@ You can participate by creating some of the following ideas or implementing some
  5) Article about the differences between MetaCall and its competitors.
  6) Walkaround about how to use [MetaCall FaaS](https://dashboard.metacall.io).
  7) Benefits and drawbacks of writing polyglot applications.
- 8) How MetaCall can improve your productivity while writing cloud and/ polyglot applications.
+ 8) How MetaCall can improve your productivity while writing cloud and/or polyglot applications.
 
 Contributions to existing repositories are also accepted. Please check [the ones pinned in the MetaCall Organization](https://github.com/metacall#below-is-a-list-of-the-most-important-repositories) or ask to us through our community chats.
 
